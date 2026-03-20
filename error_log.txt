@@ -1,0 +1,22 @@
+C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\lua.exe: ...cuments/GitHub/stormworks-projects/_build/_simulator.lua:8: module 'LifeBoatAPI.Tools.Simulator.Simulator' not found:
+	no field package.preload['LifeBoatAPI.Tools.Simulator.Simulator']
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\lua\LifeBoatAPI\Tools\Simulator\Simulator.lua'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\lua\LifeBoatAPI\Tools\Simulator\Simulator\init.lua'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\LifeBoatAPI\Tools\Simulator\Simulator.lua'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\LifeBoatAPI\Tools\Simulator\Simulator\init.lua'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\..\share\lua\5.3\LifeBoatAPI\Tools\Simulator\Simulator.lua'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\..\share\lua\5.3\LifeBoatAPI\Tools\Simulator\Simulator\init.lua'
+	no file '.\LifeBoatAPI\Tools\Simulator\Simulator.lua'
+	no file '.\LifeBoatAPI\Tools\Simulator\Simulator\init.lua'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\LifeBoatAPI\Tools\Simulator\Simulator.dll'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\..\lib\lua\5.3\LifeBoatAPI\Tools\Simulator\Simulator.dll'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\loadall.dll'
+	no file '.\LifeBoatAPI\Tools\Simulator\Simulator.dll'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\LifeBoatAPI.dll'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\..\lib\lua\5.3\LifeBoatAPI.dll'
+	no file 'C:\Users\youkan0124\.antigravity\extensions\actboy168.lua-debug-2.2.2-win32-x64\runtime\win32-ia32\5.3\loadall.dll'
+	no file '.\LifeBoatAPI.dll'
+stack traceback:
+	[C]: in function 'require'
+	...cuments/GitHub/stormworks-projects/_build/_simulator.lua:8: in main chunk
+	[C]: in ?
