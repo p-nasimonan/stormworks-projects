@@ -38,10 +38,10 @@
     ],
     "Lua.runtime.pathStrict": true,
     "Lua.workspace.library": [
-        "c:/Users/youkan0124/Documents/GitHub/stormworks-projects/JET_ECU_1x3/",
+        "c:/Users/youkan0124/Documents/GitHub/stormworks-projects/",
         "c:/Users/youkan0124/.antigravity/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Common/",
         "c:/Users/youkan0124/.antigravity/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Microcontroller/",
-        "c:/Users/youkan0124/Documents/GitHub/stormworks-projects/JET_ECU_1x3/_build/libs/"
+        "c:/Users/youkan0124/Documents/GitHub/stormworks-projects/_build/libs/"
     ],
     "lifeboatapi.stormworks.libs.gitLibraries": [
         {
